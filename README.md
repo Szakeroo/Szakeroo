@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <br/>
 ![Szaker1990's github stats](https://github-readme-stats.vercel.app/api?username=szaker1990&show_icons=true)
 
-## I'm Currently working on my portfolio and keep learing to finnaly get a job in this hard times.
+## I'm Currently working on my portfolio and keep learning to finnaly get a job in this hard times.
 
 ## If u have and offer for me please contact me at [![LinkedIn][1.3]][1.2].
 
