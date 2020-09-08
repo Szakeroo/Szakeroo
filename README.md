@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ## GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szaker1990)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-![Szaker1990's github stats](https://github-readme-stats.vercel.app/api?username=szaker1990&show_icons=true&theme=radical)
+![Szaker1990's github stats](https://github-readme-stats.vercel.app/api?username=szaker1990&show_icons=true)
 
 ## I'm Currently working on my portfolio and keep learing to finnaly get a job in this hard times.
 
