@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [1.3]:https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 [1.2]:https://www.linkedin.com/in/%C5%82ukasz-pietrasik-5a97971b1/
 
-![Header](https://github.com/Szaker1990/Szaker1990/blob/master/src/assets/header_img.png "Header")
+[![Header](https://github.com/Szaker1990/Szaker1990/blob/master/src/assets/header_img.png "Header")](https://github.com/Szaker1990)
 ## Technologies & Tools <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/facebook/230/male-technologist_1f468-200d-1f4bb.png" width="30px">
 ![](https://img.shields.io/badge/OS-Linux-informational??style=for-the-badge&logo=linux&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/EDITOR-Webstorm-informational??style=for-the-badge&logo=webstorm&logoColor=white&color=blue)
@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 <br/>
 ![Szaker1990's github stats](https://github-readme-stats.vercel.app/api?username=szaker1990&show_icons=true)
 
-## I'm Currently working on my portfolio and keep learning to finnaly get a job in this hard times.
+## I'm currently working on my portfolio and keep learning to finnaly get a job in this hard times.
 
-## If u have and offer for me please contact me at [![LinkedIn][1.3]][1.2].
+## If You have an offer for me, please contact me at [![LinkedIn][1.3]][1.2].
 
 
 
