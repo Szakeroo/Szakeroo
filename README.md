@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <br/>
 ![Szakeroo's github stats](https://github-readme-stats.vercel.app/api?username=szakeroo&show_icons=true)
 
-## I am currently learning type script to improve the security and structure of my applications.
+## I am currently learning TypeScript to improve the security and structure of my applications.
 
 ## If You have an offer for me, please contact me at [![LinkedIn][1.3]][1.2].
 
