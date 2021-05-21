@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/OS-Linux-informational??style=for-the-badge&logo=linux&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/EDITOR-Webstorm-informational??style=for-the-badge&logo=webstorm&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/CODE-JavaScript-informational??style=for-the-badge&logo=javascript&logoColor=white&color=blue)
+![](https://img.shields.io/badge/CODE-TypeScript-informational??style=for-the-badge&logo=typescript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/CODE-React-informational??style=for-the-badge&logo=react&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/CODE-ReactRouter-informational??style=for-the-badge&logo=react-router&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/CODE-Redux-informational??style=for-the-badge&logo=redux&logoColor=white&color=blue)
@@ -40,7 +41,7 @@ Here are some ideas to get you started:
 <br/>
 ![Szakeroo's github stats](https://github-readme-stats.vercel.app/api?username=szakeroo&show_icons=true)
 
-## I'm currently working on my portfolio and keep learning to finnaly get a job in this hard times.
+## I am currently learning type script to improve the security and structure of my applications.
 
 ## If You have an offer for me, please contact me at [![LinkedIn][1.3]][1.2].
 
